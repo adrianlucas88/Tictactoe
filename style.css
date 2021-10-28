@@ -1,12 +1,14 @@
 #projects {
-  display: block;
-  margin: 10% 0;
+  display: flex;
+  justify-content: center;
 }
 .project_button {
-  display: inline-block;
-  margin: 20rem 0 0 25%;
-  width: 15rem;
-  height: 15rem;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  width: 20rem;
+  height: 20rem;
   font-family: pixelfont;
   font-size: 4.7rem;
   background-color: #fcecdd;
