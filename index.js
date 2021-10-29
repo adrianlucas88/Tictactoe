@@ -14,7 +14,7 @@ function closeProjects() {
 
 ///////
 function tictac() {
-  projectContainer.style.display = "block";
+  projectContainer.style.display = "flex";
   xoxoWindow.style.visibility = "visible";
   tictactoeContainer.style.display = "grid";
   tictacRestart.style.visibility = "visible";

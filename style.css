@@ -18,6 +18,9 @@
 .project_window {
   display: none;
   position: fixed;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
   z-index: 1;
   left: 0;
   top: 0;
@@ -42,8 +45,7 @@
   font-family: pixelfont;
   color: #ff6701;
   float: right;
-  margin-top: 5%;
-  margin-right: 20%;
+  margin: 0 0 40rem 50rem;
   font-size: 10rem;
 }
 .close:hover,
