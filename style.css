@@ -15,12 +15,6 @@
   border-radius: 10%;
   border: 1rem solid #ff6701;
 }
-.advert {
-  width: 100%;
-  color: #ffc288;
-  font-size: 2rem;
-  text-align: center;
-}
 .project_window {
   display: none;
   position: fixed;
@@ -40,7 +34,7 @@
   height: 40rem;
   background-color: white;
   border-radius: 10%;
-  margin: 10% 32%;
+
   text-align: center;
   transition: 1s;
 }
